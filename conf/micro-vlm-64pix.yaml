@@ -14,7 +14,7 @@ learning_rate: 5e-5
 eval_iters: 50
 
 n_embd: 256
-device: "cpu"
+device: "cuda"
 testing: true
 gradient_accumulation_steps: 1
 
