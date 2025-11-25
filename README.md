@@ -1,4 +1,4 @@
-[![Open mini-grp In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/milarobotlearningcourse/mini-grp/blob/main/mini-grp.ipynb)
+[![Open micro-vlm In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/milarobotlearningcourse/micro_vlm/blob/main/micro_clm.ipynb)
 
 # Micro Vision Language Model: 
 
